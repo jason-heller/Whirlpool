@@ -7,7 +7,7 @@ Open source cross-platform .sm file editor intended to replace ArrowVortex, feat
 -Support for PNG/JPEG/BMP for images, WAV/OGG/MP3 for audio.
 -Exporting .sm files
 
-Upcomming features:
+Upcomming features:<br>
 -Support for multiple BPM changes (partially implemented)<br>
 -Loading sm/ssc files<br>
 -Wrapping all media into a single directory on save<br>
