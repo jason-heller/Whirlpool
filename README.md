@@ -21,3 +21,10 @@ Upcomming features:<br>
 
 ![alt text](https://github.com/jheller9/Whirlpool/blob/master/whirlpool1.png?raw=true)
 ![alt text](https://github.com/jheller9/Whirlpool/blob/master/whirlpool2.png?raw=true)
+
+# Dependencies
+- [LWJGL3] https://www.lwjgl.org/
+- [JOML] https://github.com/JOML-CI/JOML (Can be downloaded with LWJGL)
+- [NanoVG] https://github.com/memononen/nanovg (Can be downloaded with LWJGL)
+- [TinyFG] https://github.com/native-toolkit/tinyfiledialogs (Can be downloaded with LWJGL)
+- [LWJGUI] https://github.com/orange451/LWJGUI
