@@ -15,6 +15,7 @@ Upcomming features:<br>
 -Support for adding LUA scripts to files<br>
 -Support for holds/rolls/mines (as well as drag and drop for them)<br>
 -Adjustable scroll speed<br>
+-Better visibility to text when a background is added
 
 # Screenshots
 
