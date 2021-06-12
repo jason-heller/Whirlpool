@@ -8,13 +8,13 @@ Open source cross-platform .sm file editor intended to replace ArrowVortex, feat
 -Exporting .sm files
 
 Upcomming features:
--Support for multiple BPM changes (partially implemented)
--Loading sm/ssc files
--Wrapping all media into a single directory on save
--Audio trimming (shortening the audio file to start at the offset)
--Support for adding LUA scripts to files
--Support for holds/rolls/mines (as well as drag and drop for them)
--Adjustable scroll speed
+-Support for multiple BPM changes (partially implemented)<br>
+-Loading sm/ssc files<br>
+-Wrapping all media into a single directory on save<br>
+-Audio trimming (shortening the audio file to start at the offset)<br>
+-Support for adding LUA scripts to files<br>
+-Support for holds/rolls/mines (as well as drag and drop for them)<br>
+-Adjustable scroll speed<br>
 
 # Screenshots
 
